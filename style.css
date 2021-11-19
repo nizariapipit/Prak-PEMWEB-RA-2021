@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(ttlagi.jpg);
+}
+header{
+    padding: 2%;
+    background-color: #B4C6A6;
+}
+#text1{
+    margin-top: 1%;
+    margin-left: 28%;
+    font-size: larger;
+    font-family: Tahoma;
+    font-weight: 800;
+    background-color: white;
+}
+table input{
+    border-radius: 8px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ADC2A9;
+    border : "1px solid #black";
+    border-radius: 10px;
+}
+table tr, th{
+    padding: 10px;
+    background-color: #B4C6A6;
+    border-radius: 7px;
+}
+#table2 tr, td{
+    padding: 10px;
+    background-color: #B4C6A6;
+    border-radius: 7px;
+}
+#table3{
+    margin-left: 0;
+    background-color: #FEF5ED;
+}
+#struk{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    width:fit-content;
+    background-color: white;
+
+}
+#table3{
+    margin-left: 0;
+    background-color: white;
+}
+#table3 tr td{
+    margin-left: 0;
+    background-color: white;
+}
+#tambah{
+    margin-left: 45%;
+    padding: 5px;
+    width: 10%;
+    background-color: #B4C6A6;
+}
+footer{
+    padding: 1%;
+    margin-top: 7.5%;
+    text-align: center;
+    background-color: #B4C6A6;
+}
